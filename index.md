@@ -29,4 +29,4 @@ Nowadays, E-commerce takes a huge place in marketing. So, if you want to be more
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Questions? Feel free to [email us](mailto:incidogukann@gmail.com?subject=About%20E%20Commerce%20Holiday%20Calendar) and we’ll help you sort it out.
