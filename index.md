@@ -1,6 +1,6 @@
 ## Welcome to E-Commerce Holiday Calendar App
 
-![Alt text](/relative/path/to/img.png?raw=true "6.5 display")
+![Calendar View](/relative/path/to/img.png?raw=true "6.5 display")
 
 You can use the [editor on GitHub](https://github.com/dogukaninci/E-commerce-Holiday-Calendar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
