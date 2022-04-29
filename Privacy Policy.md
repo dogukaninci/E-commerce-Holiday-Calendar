@@ -30,4 +30,3 @@ Changes to This Privacy Policy
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 This policy is effective as of 2022-04-29
 
-![image](https://user-images.githubusercontent.com/38799123/166079738-e3761891-0b96-425d-b4d0-cefef57595f7.png)
