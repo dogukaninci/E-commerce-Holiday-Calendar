@@ -1,41 +1,30 @@
 ## Welcome to E-Commerce Holiday Calendar App
-
-
-![Calendar View](https://user-images.githubusercontent.com/38799123/166078828-d37bf572-afbc-4f50-b7a1-4b8b654d4b47.png)
-
-![List View](https://user-images.githubusercontent.com/38799123/166078868-afcf2894-7cb8-4a23-bd39-8a6cf8b8aace.png)
-
-You can use the [editor on GitHub](https://github.com/dogukaninci/E-commerce-Holiday-Calendar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+E-commerce Holiday Calendar is an online calendar application 
+where you can easily find various international special days 
+which celebrates around the world. It was designed for 
+targeting special days and events for sellers, 
+especially those who are interested in E-commerce.
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/38799123/166078828-d37bf572-afbc-4f50-b7a1-4b8b654d4b47.png" width="200px"</img> 
+    <img src="https://user-images.githubusercontent.com/38799123/166078868-afcf2894-7cb8-4a23-bd39-8a6cf8b8aace.png" width="200px"</img> 
+    <img src="https://user-images.githubusercontent.com/38799123/166079197-05cc842d-f871-47c1-8a85-389077986ced.png" width="200px"</img> 
+    <img src="https://user-images.githubusercontent.com/38799123/166079265-54004657-a1ab-4f05-b465-eb37e25d75f3.png" width="200px"</img> 
+</div>
+Nowadays, E-commerce takes a huge place in marketing. So, if you want to be more successful and expand your online business, this app will be helpful to keep up with the latest events and specify your items through the exact customers. With this app, you can easily and quickly prepare your market for the next events. 
 
-### Jekyll Themes
+**Key features**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dogukaninci/E-commerce-Holiday-Calendar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Holiday and special days names and dates
+
+- Targets
+
+- Descriptions
+
+- Monthly list view
+
 
 ### Support or Contact
 
