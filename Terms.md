@@ -14,4 +14,4 @@ Changes to This Terms and Conditions
 I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 These terms and conditions are effective as of 2022-04-29
 
-![image](https://user-images.githubusercontent.com/38799123/166079797-529adc1b-1266-4000-a822-b5b95ce10709.png)
+
