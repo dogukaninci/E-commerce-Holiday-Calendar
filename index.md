@@ -30,3 +30,8 @@ Nowadays, E-commerce takes a huge place in marketing. So, if you want to be more
 ### Support or Contact
 
 Questions? Feel free to [email us](mailto:incidogukann@gmail.com?subject=About%20E%20Commerce%20Holiday%20Calendar) and we’ll help you sort it out.
+
+### Privacy Policy and Terms
+
+For privacy policy go to [privacy policy](https://github.com/dogukaninci/E-commerce-Holiday-Calendar/blob/gh-pages/Privacy%20Policy.md)
+For Terms go to [terms](https://github.com/dogukaninci/E-commerce-Holiday-Calendar/blob/gh-pages/Terms.md)
