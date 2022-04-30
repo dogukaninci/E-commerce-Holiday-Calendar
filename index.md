@@ -8,7 +8,9 @@ targeting special days and events for sellers,
 especially those who are interested in E-commerce.
 
 <img src="1.png" width="200" height="400" />
-<img src="https://github.com/dogukaninci/E-commerce-Holiday-Calendar/blob/gh-pages/2.png" data-canonical-src="https://github.com/dogukaninci/E-commerce-Holiday-Calendar/blob/gh-pages/2.png" width="200" height="400" />
+<img src="2.png" width="200" height="400" />
+<img src="3.png" width="200" height="400" />
+<img src="4.png" width="200" height="400" />
 
 Nowadays, E-commerce takes a huge place in marketing. So, if you want to be more successful and expand your online business, this app will be helpful to keep up with the latest events and specify your items through the exact customers. With this app, you can easily and quickly prepare your market for the next events. 
 
